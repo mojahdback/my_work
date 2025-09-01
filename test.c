@@ -2,10 +2,10 @@
 
 int main(){
     
-    int qge;
+
 
     printf("hello world\n");
-    scanf("%d",&qge);
+   
 
 
 
