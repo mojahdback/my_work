@@ -10,8 +10,9 @@ int main(){
     int i=1;
    do{
        
-        temp = i*i;
-        if(temp%2==0){
+        temp = i * i;
+        if(temp % 2 == 0){
+
             printf("%d\n",temp);
         }
         i++;
